@@ -21,7 +21,7 @@
 - Fullbright - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Ghost Liquid Fix - [Powns Lava Fix](https://download.powns.dev/lavafix189)
 - Hit Color - [Aycy's Damage Tint](https://www.youtube.com/watch?v=ZK1C8iThJAA)
-- Hitboxes - F3 + B
+- Hitboxes - F3 + B / Sk1er Old Animations ([Beta - adds back 1.7 style hitboxes](https://sk1er.club/beta)
 - Inventory Blur - [tterrag](https://www.curseforge.com/minecraft/mc-mods/blur/files/2665186)
 - Ingame Server Switcher - [Canalex](https://www.youtube.com/watch?v=04EangMQd7I) / [Sk1er Patcher (currently logs you out)](https://sk1er.club/mods/patcher)
 - Item Counter - [Sk1er Patcher](https://sk1er.club/mods/patcher)
