@@ -5,7 +5,7 @@
 - AutoGG - [Sk1er AutoGG](https://sk1er.club/mods/autogg)
 - Autotext (!!! Bannable on Hypixel !!!) - [MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839)
 - AutoTip - [AutoTip](https://autotip.pro)
-- BlockOverlay - [Aycy BlockOverlay](https://www.youtube.com/watch?v=_ELFA5jtNQM)
+- BlockOverlay - [Aycy BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 - Bossbar - [Sk1er Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
 - CPS counter/keystrokes mod - [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Senoe](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html)
 - Clear chat - [Sk1er Patcher](https://sk1er.club/mods/patcher)
@@ -48,7 +48,7 @@
 - Time Changer - [2Pi TimeChanger](https://2pi.pw/mods/timechanger)
 - Toggle Sneak (May be bannable on Hypixel) - [Powns ToggleSneak](https://download.powns.dev/togglesneak189)
 - Toggle Sprint - [Powns ToggleSneak](https://download.powns.dev/togglesneak189)
-- Waypoints - [Fyu Waypoints Port](https://www.mediafire.com/file/9hwtfdc2n69th0t/Fyu_Waypoints_PORT.jar/file) / [VoxelMap (requires liteloader)](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202) / [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867)
+- Waypoints - [Aycy Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
 - Zoom - [Optifine](https://optifine.net) / [Sk1er Patcher (tweaks Optifine's)](https://sk1er.club/mods/patcher) / [LlamaLad7 Zoomer (tweaks Optifine's)](https://www.curseforge.com/minecraft/mc-mods/zoomer/files/2914701)
 - Emotes (No alternatives)
 - New Chat
