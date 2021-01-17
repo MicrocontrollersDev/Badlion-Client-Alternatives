@@ -10,7 +10,7 @@
 - CPS counter/keystrokes mod - [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Senoe](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html)
 - Clear chat - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Clan wars (unknown)
-- Clear Water - [Optifine Feature](https://optifine.net)
+- Clear Water - [sp614x OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5_pre2.jar)
 - Combo Counter - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD)
 - Coordinates - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns Coords Hud](https://download.powns.dev/coordsmod189)
 - Crosshair Mod - [Sparkless Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/2304056)
@@ -49,7 +49,7 @@
 - Toggle Sneak (May be bannable on Hypixel) - [Powns ToggleSneak](https://download.powns.dev/togglesneak189)
 - Toggle Sprint - [Powns ToggleSneak](https://download.powns.dev/togglesneak189)
 - Waypoints - [Aycy Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
-- Zoom - [Optifine](https://optifine.net) / [Sk1er Patcher (tweaks Optifine's)](https://sk1er.club/mods/patcher) / [LlamaLad7 Zoomer (tweaks Optifine's)](https://www.curseforge.com/minecraft/mc-mods/zoomer/files/2914701)
+- Zoom - [sp614x OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5_pre2.jar) / [Sk1er Patcher (tweaks Optifine's)](https://sk1er.club/mods/patcher) / [LlamaLad7 Zoomer (tweaks Optifine's)](https://www.curseforge.com/minecraft/mc-mods/zoomer/files/2914701)
 - Emotes (No alternatives)
 - New Chat
   - Compact Chat - [Sk1er Patcher](https://sk1er.club/mods/patcher)
