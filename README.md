@@ -1,4 +1,5 @@
 ## List of Badlion Client Features - Alternatives:
+(Expect a reorganization of this list soon)
 
 - 1.7 Animations - Sk1er Old Animations ([Beta](https://sk1er.club/beta) - Available in Sk1er Discord for now, currently missing item switch)
 - Armor Status - [Powns ArmorHud](https://download.powns.dev/armorhud189) / [Bsprks ArmorStatusHud](https://hypixel.net/threads/bspkrs-mods-for-1-8-9-forge.1207968/) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD)
