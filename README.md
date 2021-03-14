@@ -44,7 +44,7 @@
 -   **Server Address HUD** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD)
 -   **ShinyPots** - [RoccoDev](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
 -   **Stopwatch** - [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073)
--   **Time Changer** - [Revamped TimeChanger](](https://hypixel.net/threads/forge-1-8-9-timechanger-2-2-1-an-improved-timechanger-mod.3574261/))
+-   **Time Changer** - [Revamped TimeChanger](https://hypixel.net/threads/forge-1-8-9-timechanger-2-2-1-an-improved-timechanger-mod.3574261/)
 -   **Toggle Sneak** - [Powns ToggleSneak](https://download.powns.dev/togglesneak189)
 -   **Toggle Sprint** - [Powns ToggleSneak](https://download.powns.dev/togglesneak189)
 -   **Waypoints** - [aycy Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
