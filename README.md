@@ -70,3 +70,10 @@
 -   **Timers** - [LlamaLad BLCTimers](https://github.com/LlamaLad7/blctimers/releases)
 -   **SkyBlock Addons** - [Biscuit SBA](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
 -   **NotEnoughUpdates** - [Moulberry NEU](https://github.com/Moulberry/NotEnoughUpdates/releases)
+
+# Credits
+- [Asbyth](https://github.com/asbyth)
+- [Solonovamax](https://github.com/solonovamax)
+- [SirNapkin1334](https://github.com/sirnapkin1334)
+- [Zoudy](https://github.com/zoudywastaken)
+- [Luna](https://github.com/lunanotdev)
